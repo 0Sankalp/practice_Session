@@ -10,8 +10,8 @@ const ans = arr.filter(function (n){
     if (n.startsWith("S")){
     //if (n % 2 ==  0 ){
         return true;
-
-    }else{
+    }
+    else{
         return false;
 
     }
